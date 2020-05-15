@@ -17,3 +17,5 @@ Oss\Core\OssException: : RequestId:
 composer require aliyuncs/oss-sdk-php
 composer require reasno/swoole-aliyunoss-addon
 ```
+
+如果解决了问题，请star 谢谢！
