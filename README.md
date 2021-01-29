@@ -1,3 +1,6 @@
+Update: Swoole 4.6 以后，已支持Native Curl Hook（编译时注意开启），无需本组件即可直接使用阿里云OSS。
+----
+
 本组件解决了阿里云官方PHP OSS SDK和Swoole CURL_HOOK的兼容问题。
 
 安装本组件后就可以顺畅开启CURL_HOOK协程化阿里云OSS。
